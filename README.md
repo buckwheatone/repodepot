@@ -1,2 +1,2 @@
 # Miscellaneous
-General purpose repo for all miscellany
+General purpose repo for all miscellaneous items
